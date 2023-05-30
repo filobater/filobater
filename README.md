@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/filobater](https://github.com/filobater)
+
 
 - 📫 How to reach me **https://www.linkedin.com/in/filobater-nader-723887231**
 
