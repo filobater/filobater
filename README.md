@@ -21,6 +21,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=filobater&show_icons=true&locale=en" alt="filobater" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=filobater&" alt="filobater" /></p>
+
 
 
 
