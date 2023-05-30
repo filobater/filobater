@@ -7,7 +7,7 @@
 
 
 
-- 📫 How to reach me **https://www.linkedin.com/in/filobater-nader-723887231**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
