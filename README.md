@@ -3,7 +3,7 @@
 
 
 
--🌱 I’m currently learning **React Native**
+-🌱 I’m currently learning **Next Js**
 
 
 
